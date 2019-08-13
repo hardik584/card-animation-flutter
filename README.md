@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![Card Animation Demo](https://firebasestorage.googleapis.com/v0/b/infilon-timesheet.appspot.com/o/User%20Picture%2F36ZC72vi4kY33FC5KMucUEuLnJA3?alt=media&token=5a9213ea-dc79-4789-b8a9-ce6e7557ba52)
+![Card Animation Demo](https://firebasestorage.googleapis.com/v0/b/infilon-timesheet.appspot.com/o/ezgif-4-3e5e6f395ca3.gif?alt=media&token=a8b01d8f-d5f5-4e92-bf32-e3c10690ac17)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
