@@ -1,5 +1,5 @@
 # Card Animation
-https://api.codemagic.io/apps/5d5cf4b426e469202a24a70b/5d5cf4b426e469202a24a70a/status_badge.svg
+![CodeMagic](https://api.codemagic.io/apps/5d5cf4b426e469202a24a70b/5d5cf4b426e469202a24a70a/status_badge.svg)
 
 A new Flutter project.
 
